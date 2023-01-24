@@ -1,4 +1,4 @@
-## Bem-vindo(a) ao meu perfil, Ellie! 😁
+## Welcome 😁 Hi, my name is Ellie!
 
  <div>
    <a href="https://github.com/EllieAoi">
@@ -14,11 +14,9 @@
  
  <br>
  
-  ### Minhas redes sociais
+  ### My social medias
  
 <div> 
   <a href="https://instagram.com" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
   
-  ![Snake animation](https://github.com/EllieAoi/EllieAoi/blob/output/github-contribution-grid-snake.svg)
-
 </div>
