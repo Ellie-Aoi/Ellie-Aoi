@@ -1,4 +1,4 @@
-## Welcome 😁 Hi, my name is Ellie!
+## Welcome 😁
 
  <div>
    <a href="https://github.com/EllieAoi">
